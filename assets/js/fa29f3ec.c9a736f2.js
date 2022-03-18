@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkroyalton_mn_lions=self.webpackChunkroyalton_mn_lions||[]).push([[985],{3741:function(l){l.exports=JSON.parse('{"allTagsPath":"/lions-public-site/blog/tags","slug":"/lions-public-site/blog/tags/hola","name":"hola","count":1,"permalink":"/lions-public-site/blog/tags/hola"}')}}]);
