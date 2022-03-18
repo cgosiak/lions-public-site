@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Royalton Lions Club',
   tagline: 'We Serve',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.royaltonmnlions.com',
   baseUrl: '/lions-public-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,13 +36,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/cgosiak/lions-public-site/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/cgosiak/lions-public-site/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
