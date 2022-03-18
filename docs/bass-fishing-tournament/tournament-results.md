@@ -42,6 +42,7 @@ sidebar_position: 2
 | 31st Place | Randy Kreifels/Reed Kreifels | 1 | 2.19lbs |
 | 32nd Place | Blake McClenahan/Kristen McClenahan | 1 | 1.69lbs |
 | 33rd Place | Martin Witucki/Tina Witucki | 0 | 0lbs |
+|  |  | 152 | 357.41lbs |
 
 ## 2020 Tournament Results
 
