@@ -7,7 +7,7 @@ title: Welcome
 
 The Royalton Lions are hosting our 14th Annual Bass Tournament August 20th, 2022 at Blanchard Dam on the Mississippi River.
 
-## [Official Rules and Entry Form](/Lions-Bass-Tournament-2021.pdf)
+## [Official Rules and Entry Form](/Lions-Bass-Tournament-2022.pdf)
 
 ## Entry Fee
 
