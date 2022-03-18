@@ -15,7 +15,19 @@ const config = {
   favicon: 'img/LCI_emblem_2color_web.png',
   organizationName: 'cgosiak', // Usually your GitHub org/user name.
   projectName: 'lions-public-site', // Usually your repo name.
-
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/docs/bass-fishing-tournament/welcome',
+            from: ['/lions-bass-tourny'],
+          },
+        ],
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
