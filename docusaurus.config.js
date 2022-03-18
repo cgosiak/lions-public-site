@@ -9,7 +9,7 @@ const config = {
   title: 'Royalton Lions Club',
   tagline: 'We Serve',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/lions-public-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/LCI_emblem_2color_web.png',
