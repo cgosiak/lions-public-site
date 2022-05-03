@@ -12,49 +12,49 @@ const FeatureList = [
   },
   {
     title: 'R.B.I. Club',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_home_run_oerh.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Christmas on the Platte',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_snow_games_ohkc.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Polar Plunge Special Olympics',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/polar_plunge.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'High School Scholarships',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_exams_g-4-ow.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Annual Take-A-Kid Ice Fishing',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_fishing_hoxa.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Royalton Community Center',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_best_place_re_lne9.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Royalton High School Activities',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <></>
     ),
@@ -124,21 +124,21 @@ const FeatureList = [
   },
   {
     title: 'Share-A-Meal',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_cooking_lyxy.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Annual Bass Fishing Tournament',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_fishing_hoxa.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Royalton Grad Bash',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_party_re_nmwj.svg').default,
     description: (
       <></>
     ),
@@ -159,7 +159,7 @@ const FeatureList = [
   },
   {
     title: 'Arbor Day Trees & Program',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_nature_m5ll.svg').default,
     description: (
       <></>
     ),
@@ -250,14 +250,14 @@ const FeatureList = [
   },
   {
     title: 'Softball & Baseball Field Dugouts',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_home_run_oerh.svg').default,
     description: (
       <></>
     ),
   },
   {
     title: 'Annual Christmas Tree Sales',
-    Svg: require('@site/static/img/undraw_empty_street.svg').default,
+    Svg: require('@site/static/img/undraw_christmas_tree_-56-sw.svg').default,
     description: (
       <></>
     ),
