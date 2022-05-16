@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkroyalton_mn_lions=self.webpackChunkroyalton_mn_lions||[]).push([[6],{8399:function(s){s.exports=JSON.parse('{"allTagsPath":"/lions-public-site/blog/tags","slug":"/lions-public-site/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/lions-public-site/blog/tags/docusaurus"}')}}]);
