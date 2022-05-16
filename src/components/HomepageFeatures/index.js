@@ -54,7 +54,7 @@ const FeatureList = [
   },
   {
     title: 'Royalton High School Activities',
-    Svg: require('@site/static/img/logo.svg').default,
+    Svg: require('@site/static/img/undraw_empty_street.svg').default,
     description: (
       <></>
     ),
