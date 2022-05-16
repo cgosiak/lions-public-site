@@ -9,7 +9,7 @@ const config = {
   title: 'Royalton Lions Club',
   tagline: 'We Serve',
   url: 'https://www.royaltonmnlions.com',
-  baseUrl: '/lions-public-site/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/LCI_emblem_2color_web.png',
