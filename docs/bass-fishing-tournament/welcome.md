@@ -5,9 +5,9 @@ title: Welcome
 
 # Annual Bass Tournament
 
-The Royalton Lions are hosting our 15th Annual Bass Tournament August 19th, 2023 at Blanchard Dam on the Mississippi River.
+The Royalton Lions are hosting our 16th Annual Bass Tournament August 17th, 2024 at Blanchard Dam on the Mississippi River.
 
-## [Official Rules and Entry Form](/Lions-Bass-Tournament-2023.pdf)
+## [Official Rules and Entry Form](/Lions-Bass-Tournament-2024.pdf)
 
 ## Entry Fee
 
@@ -36,7 +36,7 @@ Blanchard Dam Public Water Access on the East Side of the Mississippi River. [Vi
 
 ## When
 
-August 19th, 2023
+August 17th, 2024
 
 Check In Time: 6:00am
 
